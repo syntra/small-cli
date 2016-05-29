@@ -44,6 +44,6 @@ echo "
 Finished installing.
 
 What next? Put this:
-    source ${INSTALLPREFIX/SUITE[0]}
+    source ${INSTALLPREFIX}/${SUITE[0]}
 
 At the bottom of your ~/.bash_profile file.";
