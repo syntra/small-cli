@@ -10,7 +10,7 @@ Installing the CLI tools for Syntra Small is as easy as running the following sc
 
 After the installation runs, it will tell you that you need to add the following to your `~/.bash_profile` file
 
-	source /Users/garet/.syntra/small
+	source $HOME/.syntra/small
 
 After that, you're done! Either run `source /Users/garet/.syntra/small` or close and re-open terminal to start using Syntra Small's CLI!
 
